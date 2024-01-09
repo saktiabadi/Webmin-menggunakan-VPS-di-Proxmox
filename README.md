@@ -1,4 +1,31 @@
-![image](https://github.com/saktiabadi/Webmin-menggunakan-VPS-di-Proxmox/assets/47803981/8ed6d4f7-06f1-44d4-9297-36b702780040)![image](https://github.com/saktiabadi/Webmin-menggunakan-VPS-di-Proxmox/assets/47803981/ed363ad0-6d36-407d-977b-eae27e477b9c)![image](https://github.com/saktiabadi/Webmin-menggunakan-VPS-di-Proxmox/assets/47803981/df6ce815-b804-425d-9dc6-6ada5c25edde)# Webmin-menggunakan-VPS-di-Proxmox
+WEBMIN
+
+Dibuat oleh :
+
+Sakti Abadi (21050974074)
+
+Deskripsi
+
+Webmin adalah perangkat lunak administrasi server berbasis web yang menyediakan antarmuka pengguna grafis (GUI) untuk mengelola dan mengonfigurasi server Linux dan sistem berbasis Unix. Dengan Webmin, administrator sistem dapat melakukan berbagai tugas administratif melalui browser web tanpa harus mengandalkan baris perintah.
+
+Fitur WEBMIN
+
+1. Manajemen Pengguna dan Grup: Webmin memungkinkan administrator untuk membuat, menghapus, dan mengelola pengguna serta kelompok pengguna pada sistem.
+
+2. Konfigurasi Jaringan: Administrasi konfigurasi jaringan seperti pengaturan antarmuka jaringan, konfigurasi DNS, dan konfigurasi firewall dapat dilakukan melalui antarmuka Webmin.
+
+3. Manajemen Layanan: Webmin mendukung manajemen layanan seperti Apache, MySQL, dan layanan sistem lainnya. Administrator dapat memulai, menghentikan, atau mengonfigurasi layanan dengan mudah.
+
+4. Pengelolaan File dan Direktori: Webmin memungkinkan administrator untuk menjelajah sistem file, mengelola izin file dan direktori, serta melakukan operasi dasar pada berkas dan folder.
+
+5. Pemantauan Sistem: Informasi tentang penggunaan sumber daya sistem seperti CPU, RAM, dan ruang disk dapat diakses melalui modul pemantauan sistem Webmin.
+
+6. Manajemen Sekuritas: Webmin menyediakan alat untuk mengelola keamanan sistem, termasuk konfigurasi firewall, sertifikat SSL, dan manajemen kunci SSH.
+   
+
+Install WEBMIN menggunkan Proxmox
+
+
 1. PilIh Install Proxmox VE untuk memulai instalasi standar 
 
 ![image](https://github.com/saktiabadi/Webmin-menggunakan-VPS-di-Proxmox/assets/47803981/c20a6149-01b3-437e-b1b2-640adadfcc9d)
